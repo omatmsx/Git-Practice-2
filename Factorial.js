@@ -17,3 +17,5 @@ function displayFactorial() {
     var result = factorial(number);
     console.log("The factorial of " + number + " is: " + result);
 }
+
+displayFactorial();
